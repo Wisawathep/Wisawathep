@@ -4,15 +4,15 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">🧑 About Me</h2>
 
 ###
 
-<p align="left">✨ I’m passionate about Artificial Intelligence, Machine Learning, and Deep Learning, and I enjoy exploring how intelligent systems can be applied to solve real-world problems.<br>Alongside AI, I have a strong interest in Software Development, where I enjoy designing, building, and improving applications with clean and efficient code.<br>I’m always eager to learn new technologies, experiment with ideas, and continuously improve my skills as both a developer and an AI enthusiast.</p>
+<p align="left">✨ I’m passionate about Artificial Intelligence, Machine Learning, and Deep Learning, and I enjoy exploring how intelligent systems can be applied to solve real-world problems.<br><br>😺 Alongside AI, I have a strong interest in Software Development, where I enjoy designing, building, and improving applications with clean and efficient code.<br><br>🌕 I’m always eager to learn new technologies, experiment with ideas, and continuously improve my skills as both a developer and an AI enthusiast.</p>
 
 ###
 
-<h2 align="left">Tech Stacks</h2>
+<h2 align="left">🛠️ Tech Stacks</h2>
 
 ###
 
@@ -69,12 +69,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wisawathep/Wisawathep/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Wisawathep/Wisawathep/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Wisawathep.Wisawathep&"  />
-</div>
 
 ###
 
