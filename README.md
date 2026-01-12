@@ -45,6 +45,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
+  <img src="https://github.com/Wisawathep/ReadmeTools/blob/main/Techstacks/pandas.png" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://github.com/Wisawathep/ReadmeTools/blob/main/Techstacks/matplotlib.png" height="40" alt="matplotlib logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
